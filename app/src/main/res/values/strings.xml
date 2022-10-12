@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <array name="user">
+        <item>Użytkownik 1</item>
+        <item>Użytkownik 2</item>
+        <item>Użytkownik 3</item>
+        <item>Użytkownik 4</item>
+    </array>
+
+    <array name="languages">
+        <item>PHP</item>
+        <item>JavaScript</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>C#</item>
+    </array>
+</resources>
